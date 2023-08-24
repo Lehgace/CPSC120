@@ -1,0 +1,32 @@
+1. What major are you?
+
+  Currently enrolled as a Computer Engineering Major, but planning on changing
+  it to Computer Science Major.
+
+2. If you were already in Computer Science or Computer Engineering, would you
+   want to stay in the major? Or if you are majoring in something else, would
+   you consider CS/CE as a major you'd pursue? Why or why not?
+
+   Yes, I would like to stay in the Computer Science Major. Quite simply,
+   the future for technology and coding is bright and will most likely be a
+   valuable skill-set for years to come (as if it wasn't already).
+
+3. Take a moment to reflect on everything you've learned in this class. In 1-2
+   sentences, what are your key takeaways from this class? You can talk about
+   anything you learned, were or weren't expecting, about the material, what you
+   learned about yourself, anything!
+
+   One thing I learned from this class is that coding is an elaborate artform
+   in a sense. There are multiple ways to tackle a problem, and sometimes it
+   takes a few compiler errors, bug fixes, and broken keyboards until you
+   finally craft something that works the way you intended. When I finally did
+   finish that challenging lab or project 3, I felt like a computer mastermind
+   that had the HelloWorld in his fingertips.
+
+
+4. Any other thoughts or comments you'd like to leave?
+
+  Two wise men once left me with the following words of wisdom. One man said
+  that "A true master is an eternal student." Another man once said that
+  "Coding is hard." Both are very valuable statements I will remember for the
+  rest of my days.
